@@ -24,3 +24,4 @@ come ha fatto il prof in un'esercizio del capitolo 4 se non ricordo male)
 
 i modelli di classification tendono ad etichettare tutto come la classe più frequente, dobbiamo rivedere come hanno fatto i ragazzi che hanno
 fatto il progetto sul crimine nella città di los angeles (considerando l'unbalanced dataset)
+Considerate che il dataset del crimine nella città di los angeles conteneva tantissime righe quindi potevano permettersi di perdere numerose righe con equal size sampling
